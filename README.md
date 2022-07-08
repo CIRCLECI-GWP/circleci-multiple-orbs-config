@@ -1,6 +1,6 @@
 # Multiple CircleCI Orbs Pipeline Configuration
 
-[![CircleCI](https://circleci.com/gh/mwaz/circleci-multiple-orbs-config.svg?style=svg)](https://circleci.com/gh/mwaz/circleci-multiple-orbs-config)
+[![CircleCI](https://circleci.com/gh/CIRCLECI-GWP/circleci-multiple-orbs-config.svg?style=svg)](https://circleci.com/gh/CIRCLECI-GWP/circleci-multiple-orbs-config)
 
 <p align="center"><img src="https://avatars3.githubusercontent.com/u/59034516"></p>
 
@@ -12,7 +12,7 @@ An Application for showing how to configure multiple CircleCI orbs on CI
 run the following command on your terminal to clone the repository:
 
 ```bash
-git clone git@github.com:mwaz/circleci-multiple-orbs-config.git
+git clone https://github.com/CIRCLECI-GWP/circleci-multiple-orbs-config.git
 
 cd circleci-multiple-orbs-config
 ```
